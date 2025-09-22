@@ -1,6 +1,6 @@
 # Go Anomaly Detector
 
-**go-anomaly-detector** is a **high-performance, real-time network anomaly detection system** built with **Go** and **Kafka**. It streams network traffic, detects behavioral anomalies, and helps security teams monitor and respond to potential threats efficiently. The system is container-ready, scalable, and fully configurable for different network environments.
+**go-anomaly-detector** is a high-performance, distributed streaming analytics system **built in Go for real-time detection of behavioral anomalies in network traffic**. It leverages Kafka for scalable ingestion, supports modular producer and consumer services, and is configurable for rule-based or ML-based detection. Ideal for security engineers, network analysts, and developers, it provides Docker and Kubernetes deployment support, monitoring metrics, and logs for production-grade observability.
 
 ---
 

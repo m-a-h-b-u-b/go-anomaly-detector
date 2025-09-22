@@ -1,0 +1,9 @@
+kafka:
+  brokers:
+    - "localhost:9092"
+  topic: "network-data"
+  group_id: "anomaly-detector"
+
+detector:
+  anomaly_threshold: 0.8
+  detection_mode: rule-based

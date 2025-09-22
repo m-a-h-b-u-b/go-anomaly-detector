@@ -1,0 +1,3 @@
+# Example detection rules
+anomaly_threshold: 0.8
+detection_mode: rule-based
